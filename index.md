@@ -1,15 +1,17 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 何丰辰|简历
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: hefengchen@njust.edu.cn
+  text: hefengchen@njust.edu.cn
+phone:
+  text: (+86)15214302396
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: http://www.hefengchen.top
+  text: http://www.hefengchen.top
 ---
 
-# Wode **Ni**
+# Wode **何丰辰**
 
 <!--
 include contact information from the front matter
@@ -21,36 +23,18 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育背景
 
-### **Carnegie Mellon University** `2018.9 -`
-
-```
-Pittsburgh, PA
-```
-
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### **Columbia University** `2016.9 - 2018.5`
+### **南京理工大学** `2021.9至今`
 
 ```
-New York, NY
+江苏,南京
 ```
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+- 学士 软件工程
+- GPA 2.76/4.00
 
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
-## Publications
+<!-- ## Publications
 
 ### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
@@ -91,8 +75,6 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 [[PDF](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)]
 [[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
 
----
-
 ### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
 
 **Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
@@ -104,9 +86,9 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 ### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
 
 **Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
+[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]  -->
 
-## Experience
+<!-- ## Experience
 ### **Apple** `2022.5 - 2022.9`
 
 _Research Intern - Machine Intelligence_<br>
@@ -133,37 +115,43 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 [Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2018 - 2021` <br>
 [Courtney Miller](https://courtney-e-miller.github.io/) (New College of Florida, [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2019` <br>
 [Anael Kuperwajs Cohen](https://anaelkuperwajs.github.io/) (Macalester College, [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2019` <br>
+-->
 
----
+## 获奖情况
 
-## Honors & Awards
+- 铜牌,2022年JSCPC江苏省大学生程序设计竞赛 `2022年3月` <br>
+- 铜牌,2021年ICPC昆明区域赛 `2022年4月` <br>
+- 金牌,2021年ICPC东亚总决赛 `2022年7月` <br>
+- 铜牌,2022年ICPC西安区域赛 `2022年11月` <br>
+- 铜牌,2022年ICPC合肥区域赛 `2022年11月` <br>
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+## 项目
 
-## Teaching
+- 使用C++基于QT框架复刻的植物大战僵尸游戏
+
+### 开源贡献
+
+- 向OI-Wiki贡献过算法讲解和错误修正等内容
+
+<!-- ## Teaching
 
 Teaching Assistant, **Foundations of Software Engineering (17-313)** `CMU, 2022` <br>
 Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
 Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
 Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
 Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+Computer Lab Consultant `Dickinson, 2014 - 2016` <br> -->
 
 
-## Service
+<!-- ## Service
 
 Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
 Reviewer `CHI'21, CHI'22, SIGGRAPH'22` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2022` <br>
+Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2022` <br> -->
+
+### 杂项
+
+语言：英语 CET4 499分,CET6 511分
 
 <!-- ### Footer
 
